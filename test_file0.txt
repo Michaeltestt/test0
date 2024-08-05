@@ -3,3 +3,4 @@ Hello, there!
 Hi
 
 FEATURE2
+FEATURE2 REBASE TEST
